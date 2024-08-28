@@ -1,4 +1,4 @@
-module github.com/adrianlocurcio/sum_numbers
+module github.com/adrianlocurcio/sum_numbers/v2
 
 go 1.22.2
 
